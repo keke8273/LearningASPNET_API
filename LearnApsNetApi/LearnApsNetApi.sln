@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnApsNetApi", "LearnApsN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnApsNetApi.Tests", "LearnApsNetApi.Tests\LearnApsNetApi.Tests.csproj", "{83EFAB45-3D32-4827-96C4-D5985DB010DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnAspNetApi.Common", "LearnAspNetApi.Common\LearnAspNetApi.Common.csproj", "{1E4EBFA7-E129-4766-A3FA-650061D19D9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{83EFAB45-3D32-4827-96C4-D5985DB010DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83EFAB45-3D32-4827-96C4-D5985DB010DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83EFAB45-3D32-4827-96C4-D5985DB010DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E4EBFA7-E129-4766-A3FA-650061D19D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E4EBFA7-E129-4766-A3FA-650061D19D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E4EBFA7-E129-4766-A3FA-650061D19D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E4EBFA7-E129-4766-A3FA-650061D19D9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
